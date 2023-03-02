@@ -1,0 +1,17 @@
+Start
+
+Declare an array.
+
+Initialize the array.
+
+Use two for loops to display the second largest and second smallest element in an array.
+
+Use the first for loop to hold each element of the array
+
+Use the second for loop to compare the element with the rest of the elements.
+
+Swap the elements to sort the elements.
+
+Display the second largest Number.
+
+Stop
